@@ -1,7 +1,7 @@
 Railway PgBouncer Template
 ======================
 
-This is a minimal PgBouncer image, based on Alpine Linux.
+This is a minimal PgBouncer image, based on Alpine Linux. Derived from https://github.com/edoburu/docker-pgbouncer
 
 Features:
 
