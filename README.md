@@ -1,6 +1,8 @@
 Railway PgBouncer Template
 ======================
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/L09YMd?referralCode=_Q8oMR)
+
 This is a minimal PgBouncer image, based on Alpine Linux. Derived from https://github.com/edoburu/docker-pgbouncer
 
 Features:
